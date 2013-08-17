@@ -12,7 +12,7 @@
 
 ## Property(readonly + readwrite)
 
-* ``.h`` はreadonly、無名カテゴリで ``readwrite``
+* headerはreadonly、無名カテゴリで ``readwrite``
 * iVarは生成される
 
 
